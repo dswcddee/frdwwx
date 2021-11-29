@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/dswcddee/frdwwx/master/etc/StoreFiles"
         }
     },
-    "repository": "",
+"website": "https://github.com/dswcddee/frdwwx",
+    "repository": "https://github.com/dswcddee/frdwwx",
     "stack": "container"
 }
